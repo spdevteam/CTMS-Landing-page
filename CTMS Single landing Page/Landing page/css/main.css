@@ -99,7 +99,7 @@ ul{
 }
 p, li, a, span{}
 p{
-    font-size: 17px;
+    font-size: 13px;
     color: #666;
     margin-bottom: 15px;
 }
@@ -513,7 +513,7 @@ ul.nav > li > a.active{
     position: relative;
 }
 .hero-moc{
-    background-image: url(../img/hero-mockup.png);
+    background-image: url(../img/main\ cylinders\ img.jpg);
     background-position: bottom right;
     background-repeat: no-repeat;
     content: "";
